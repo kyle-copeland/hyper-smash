@@ -1,7 +1,11 @@
 # hyper-smash
-<p align="center">
-  <img src="assets/readme/README.png" width="700">
-</p>
+Smash Brothers terminals for [Hyper.js](https://hyper.is/)
+
+![](assets/readme/README.png)
+
+# Available Characters
+:bird: Falco Lombarid [YO PP](https://youtu.be/DEsp996TGak?t=587)
+
 ![PPMD](https://media.giphy.com/media/3oKIPsOzJK1XT3Kxyw/giphy.gif)
 
 ## Usage
@@ -15,7 +19,8 @@ plugins: [
 
 ## Inspiration
 
-https://github.com/klaussinani/hyper-pokemon
+* Hyper Pokemon Theme: https://github.com/klaussinani/hyper-pokemon
+* Smash Brothers Documentary [Life Changing Documentary](https://www.youtube.com/watch?v=NSf2mgkRm7Q&list=PLoUHkRwnRH-IXbZfwlgiEN8eXmoj6DtKM)
 
 ## Contribute
 
